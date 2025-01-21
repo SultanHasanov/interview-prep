@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Card, Button, Typography, Space, Spin } from "antd";
 import { motion } from "framer-motion";
 import axios from "axios";
+import { ArrowLeftOutlined, ArrowRightOutlined } from "@ant-design/icons";
 
 const { Title} = Typography;
 
@@ -89,14 +90,14 @@ const QuestionSlider = () => {
               onClick={prevQuestion}
               disabled={currentIndex === 0}
             >
-              Previous
+            <ArrowLeftOutlined />   Назад
             </Button>
             <Button
               type="primary"
               onClick={nextQuestion}
               disabled={currentIndex === questions.length - 1}
             >
-              Next
+              Далее  <ArrowRightOutlined />
             </Button>
           </Space>
         </Space>
