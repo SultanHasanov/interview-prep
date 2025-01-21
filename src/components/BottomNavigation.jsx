@@ -17,13 +17,14 @@ const BottomNavigation = () => {
         left: 0,
         right: 0,
         display: "flex",
-        justifyContent: "space-around",
+        // gap: "30px",
+        justifyContent: "center",
         borderTop: "1px solid #d9d9d9",
         backgroundColor: "#fff",
         zIndex: 1000,
       }}
     >
-      <Menu.Item key="/" icon={<HomeOutlined />}>
+      <Menu.Item key="/"  style={{ marginRight: 90 }} icon={<HomeOutlined />}>
         <Link to="/">Home</Link>
       </Menu.Item>
       <Menu.Item key="/slider" icon={<SlidersOutlined />}>

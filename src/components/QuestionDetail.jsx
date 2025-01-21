@@ -80,7 +80,7 @@ const QuestionDetail = () => {
           >
             {questionData.answer}
           </motion.div>
-          <Space direction="horizontal" size="large">
+          <Space direction="horizontal" size="small">
             <Button type="dashed">
               <HomeOutlined /> <Link to="/">Домой</Link>
             </Button>
