@@ -1,7 +1,3 @@
 <a target=_blank href="https://interview-prep-bice.vercel.app/">Demo</a>
-<video width="600" controls>
-  <source src="https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA" >
-</video>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Смотреть видео]([https://www.youtube.com/watch?v=пример_ссылки](https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA))
