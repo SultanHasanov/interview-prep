@@ -2,7 +2,10 @@
 
 [Смотреть видео](https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA)
 
+**[▶ Смотреть видео на YouTube](https://www.youtube.com/watch?v=TUqT0oX2UNg)**  
+
 <a href="https://www.youtube.com/watch?v=TUqT0oX2UNg">
     <img src="https://img.youtube.com/vi/TUqT0oX2UNg/0.jpg" alt="Смотреть видео" width="600"/>
 </a>
+
 
