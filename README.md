@@ -1,6 +1,6 @@
 <a target=_blank href="https://interview-prep-bice.vercel.app/">Demo</a>
 <video width="600" controls>
-  <source src="[https://raw.githubusercontent.com/username/repo/main/video.mp4](https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA)" type="video/mp4">
+  <source src="https://www.youtube.com/embed/TUqT0oX2UNg?si=e_NaGJYet61887EA" >
 </video>
 
 
